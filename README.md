@@ -1,6 +1,6 @@
-# Introduction-to-Multimedia＜/br＞
-----------------------------------------------
-NTHU class projects＜/br＞
+# Introduction-to-Multimedia<br />
+===============================================
+NTHU class projects<br />
 1.image processing＜/br＞ 
 2.audio filtering＜/br＞
 3.3D model reconstruction＜/br＞ 
