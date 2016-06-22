@@ -1,2 +1,8 @@
-# Introduction_to_multimedia
-NTHU class projects(including image processing, audio filtering, 3D model reconstruction, video estimation, also final project implementing video stabilization)
+# Introduction-to-Multimedia
+----------------------------------------------
+NTHU class projects
+1.image processing 
+2.audio filtering
+3.3D model reconstruction 
+4.video estimation
+5.final project implementing video stabilization
